@@ -1,0 +1,9 @@
+pandas
+numpy
+openpyxl
+scikit-learn
+fastapi
+uvicorn
+joblib
+matplotlib
+seaborn
